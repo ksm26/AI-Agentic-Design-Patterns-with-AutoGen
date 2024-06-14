@@ -1,4 +1,4 @@
-# 🤖 [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+# 🤖 [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 
 💡 Welcome to the "AI Agentic Design Patterns with AutoGen" course! Instructed by Chi Wang, Principal Researcher at Microsoft Research, and Qingyun Wu, Assistant Professor at Penn State University, this course will equip you with the knowledge and skills to build and customize multi-agent systems using AutoGen.
 
