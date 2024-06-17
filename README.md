@@ -1,6 +1,6 @@
 # 🤖 [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 
-💡 Welcome to the "AI Agentic Design Patterns with AutoGen" course! Instructed by Chi Wang, Principal Researcher at Microsoft Research, and Qingyun Wu, Assistant Professor at Penn State University, this course will equip you with the knowledge and skills to build and customize multi-agent systems using AutoGen.
+💡 Welcome to the "AI Agentic Design Patterns with AutoGen" course! The course will equip you with the knowledge and skills to build and customize multi-agent systems using AutoGen.
 
 ## Course Summary
 In this course, you'll explore key principles of designing multi-agent systems and enabling agents to collaborate on complex tasks using the AutoGen framework. Here's what you can expect to learn and experience:
