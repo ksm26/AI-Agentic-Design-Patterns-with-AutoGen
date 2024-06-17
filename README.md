@@ -11,6 +11,10 @@ In this course, you'll explore key principles of designing multi-agent systems a
 </p>
 
 2. 🎉 **Customer Onboarding**: Develop a sequence of chats between agents to provide a fun customer onboarding experience for a product using the multi-agent collaboration design pattern.
+<p align="center">
+<img src="images/l2.png" height="400"> 
+</p>
+
 3. 📝 **Blog Post Creation**: Use the agent reflection framework to create a high-quality blog post with nested chats, where reviewer agents reflect on the blog post written by another agent.
 4. ♟️ **Chess Game**: Implement a conversational chess game where two agent players can call a tool and make legal moves on the chessboard using the tool use design pattern.
 5. 💻 **Coding Agent**: Develop a coding agent capable of generating the necessary code to plot stock gains for financial analysis and integrating user-defined functions into the code.
